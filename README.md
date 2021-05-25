@@ -31,4 +31,4 @@ If you have any questions, email me at [sean@misen.com](mailto:sean@misen.com).
 
 ## Turning in your assessment
 
-Fork this repository and add a file with your written response. Send me an email at [sean@misen.com](mailto:sean@misen.com) with a link to the forked repo.
+Fork this repository and add a markdown file with your written response. Send me an email at [sean@misen.com](mailto:sean@misen.com) with a link to the forked repo.
